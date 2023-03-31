@@ -40,3 +40,4 @@ export const Calculator = () => {
         </div>
     )
 }
+
